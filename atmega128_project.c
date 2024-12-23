@@ -1,9 +1,10 @@
 /*
- * Term_Project.c
+ * Atmega128 Project
  *
  * Created: 2024-05-29 오후 4:23:23
- * Author : tmdcj
+ * Author : Lee Seung Cheol
  */ 
+
 #define __DELAY_BACKWARD_COMPATIBLE__
 #include <avr/io.h>
 #include <avr/interrupt.h>
